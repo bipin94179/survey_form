@@ -9,6 +9,7 @@
 
 body {
   background-color: hsla(244, 53%, 45%, 0.6);
+  min-height: 100vh;
 }
 .container {
   display: flex;
